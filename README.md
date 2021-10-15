@@ -1,7 +1,3 @@
-**Table of Contents**
-
-[TOC]
-
 ## UI Automation
 
 ---
@@ -31,11 +27,12 @@ Testing UI on https://www.service.nsw.gov.au/ and search for "Apply for a numbe
 - Open or import this project to IntelliJ IDEA version 2020 1.3 or above
 - Import the chromedriver.exe on project folder
 
-![image-20211015230435216](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20211015230435216.png)
+![image](https://user-images.githubusercontent.com/54658139/137519771-5fc8ccf1-fc59-40c4-a866-340bce8574f5.png)
+
 
 - Run the test file on method `submitform()`
 
-![image-20211015230605553](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20211015230605553.png)
+![image](https://user-images.githubusercontent.com/54658139/137519723-8521352e-eb77-4634-9966-833bae1ad1a6.png)
 
 - Make sure to use Google Chrome and chromedriver on the same version
 
